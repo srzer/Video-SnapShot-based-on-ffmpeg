@@ -40,11 +40,11 @@ The repository uses CMake, after these two steps you should be able to open it w
 
 ## Screenshots of my programs’ output
 
-![image-20220625094631903](C:\Users\srzer\AppData\Roaming\Typora\typora-user-images\image-20220625094631903.png)
+![img1](.\img\3.png)
 
-![image-20220625094529784](C:\Users\srzer\AppData\Roaming\Typora\typora-user-images\image-20220625094529784.png)
+![img2](./img/1.png)
 
-![image-20220625094545634](C:\Users\srzer\AppData\Roaming\Typora\typora-user-images\image-20220625094545634.png)
+![img3](./img/2.png)
 
 ## How you should compile my project and recreate my result
 
@@ -55,7 +55,7 @@ make
 ./main PATH
 ```
 
-And then you will see ![image-20220625094657689](C:\Users\srzer\AppData\Roaming\Typora\typora-user-images\image-20220625094657689.png)
+And then you will see ![img4](./img/4)
 
 just follow the instructions.
 
