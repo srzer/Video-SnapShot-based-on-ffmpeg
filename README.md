@@ -40,7 +40,7 @@ The repository uses CMake, after these two steps you should be able to open it w
 
 ## Screenshots of my programs’ output
 
-![img1](.\img\3.png)
+![img1](./img/3.png)
 
 ![img2](./img/1.png)
 
@@ -55,7 +55,7 @@ make
 ./main PATH
 ```
 
-And then you will see ![img4](./img/4)
+And then you will see ![img4](./img/4.png)
 
 just follow the instructions.
 
